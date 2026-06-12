@@ -1,0 +1,17 @@
+---
+
+### 7. AI Project README
+```markdown
+# Project Name 🤖
+
+## About
+An AI-powered application for [task].
+
+## Model
+- GPT-based
+- Trained on custom dataset
+
+## Run
+```bash
+pip install -r requirements.txt
+python app.py
